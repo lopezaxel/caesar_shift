@@ -1,0 +1,1 @@
+The caesar shift is a method of encryption that takes a key shift (a number) and changes every letter by a number of letters down the alphabet. "Hello" with a key shift of 5 would equal "Mjqqt". This is a project from The Odin Project.
